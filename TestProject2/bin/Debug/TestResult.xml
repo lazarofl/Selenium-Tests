@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\lazaro.fernandes\Documents\Visual Studio 2010\Projects\TestProject2\TestProject2\bin\Debug\TestProject2.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-06-18" time="16:01:09">
+  <environment nunit-version="2.5.10.11092" clr-version="4.0.30319.269" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Windows\system32" machine-name="TI-001" user="lazaro.fernandes" user-domain="SINDICONET" />
+  <culture-info current-culture="pt-BR" current-uiculture="pt-BR" />
+  <test-suite type="Assembly" name="C:\Users\lazaro.fernandes\Documents\Visual Studio 2010\Projects\TestProject2\TestProject2\bin\Debug\TestProject2.dll" executed="True" result="Success" success="True" time="54.600" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TestProject2" executed="True" result="Success" success="True" time="54.596" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="SeleniumTests" executed="True" result="Success" success="True" time="54.595" asserts="0">
+            <results>
+              <test-case name="TestProject2.SeleniumTests.W3C_Invalid" executed="True" result="Success" success="True" time="28.468" asserts="1" />
+              <test-case name="TestProject2.SeleniumTests.W3C_Valid" executed="True" result="Success" success="True" time="26.114" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
